@@ -1,0 +1,9 @@
+.image {
+    background-image: url('./layout5.1.png');
+    color:white;
+    background-repeat:no-repeat;
+    background-color:transparent;
+    height:200vh;
+    width:auto;
+    background-size:cover;
+}
